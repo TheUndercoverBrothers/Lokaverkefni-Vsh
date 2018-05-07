@@ -1,0 +1,20 @@
+body{
+	font:600 16px/18px 'Open Sans',sans-serif;
+	padding: 0px;
+	margin: 0px;
+  background-image: url("https://cootersplace.com/shop/images/44301/Photos+on+Jan+9%2C+2016%2C+5_03_07+PM11.jpg"); 
+
+}
+
+div{
+  background-color:   #808080;
+	border:1px solid black;
+	width: 300px;
+	height: 200px;
+	margin: auto;
+	text-align: center;
+  opacity: 0.5;
+}
+input {
+	color: navy;
+}
